@@ -12,7 +12,7 @@ FE 직무 알고리즘 스터디를 위한 REPO로 `JS`언어를 중심으로 �
 - [x] Level2 [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)
 
 ### 📝2주차 해시
-- [ ] Level1 [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)
+- [x] Level1 [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)
 - [ ] Level1 [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)
 - [ ] Level2 [전화번호목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)
 - [ ] Level2 [위장](https://school.programmers.co.kr/learn/courses/30/lessons/42578)
