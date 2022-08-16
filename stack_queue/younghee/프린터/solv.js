@@ -1,7 +1,7 @@
 function solution(priorities, location) {
     var answer = 0;
     let locateList= priorities.map((item,idx) => [item, idx]);
-    //console.log(locateList);
+    //console.log(locateList)
     let printList = [];
     let sortedList = priorities.sort().reverse();
     
