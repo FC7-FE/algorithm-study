@@ -15,7 +15,7 @@ FE 직무 알고리즘 스터디를 위한 REPO로 `JS`언어를 중심으로 �
 - [x] Level1 [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)
 - [x] Level1 [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)
 - [ ] Level2 [전화번호목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)
-- [ ] Level2 [위장](https://school.programmers.co.kr/learn/courses/30/lessons/42578)
+- [x] Level2 [위장](https://school.programmers.co.kr/learn/courses/30/lessons/42578)
 - [ ] Level3 [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)
 
 
