@@ -20,12 +20,12 @@ FE 직무 알고리즘 스터디를 위한 REPO로 `JS`언어를 중심으로 �
 
 
 ### 📝3주차 힙(Heap) & 정렬(Sort)
-- [ ] Level1 [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)
-- [ ] Level2 [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)
-- [ ] Level2 [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)
-- [ ] Level2 [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)
-- [ ] Level3 [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627)
-- [ ] Level3 [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)
+- [x] Level1 [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)
+- [x] Level2 [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)
+- [x] Level2 [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)
+- [x] Level2 [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)
+- [x] Level3 [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627)
+- [x] Level3 [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)
 
 ### 📝4주차 완전탐색
 - [ ] Level1 [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)
