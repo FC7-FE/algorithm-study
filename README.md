@@ -28,13 +28,13 @@ FE 직무 알고리즘 스터디를 위한 REPO로 `JS`언어를 중심으로 �
 - [x] Level3 [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)
 
 ### 📝4주차 완전탐색
-- [ ] Level1 [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)
-- [ ] Level1 [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)
-- [ ] Level2 [소수찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)
+- [x] Level1 [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)
+- [x] Level1 [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)
+- [x] Level2 [소수찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)
 - [ ] Level2 [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)
-- [ ] Level2 [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)
-- [ ] Level2 [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)
-- [ ] Level2 [모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)
+- [x] Level2 [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)
+- [x] Level2 [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)
+- [x] Level2 [모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)
 
 ### 📝5주차 탐욕법(Greedy)
 - [ ] Level1 [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)
